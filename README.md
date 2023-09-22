@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&weight=600&color=2789B3&pause=1000&center=true&width=700&height=48&lines=Hi+%F0%9F%91%8B%2C+I+am+ShubhCoder;A+passionate+developer+from+India" alt="Typing SVG" /></a>
   <hr width="50%" style="border-radius:4px;background-color:#fff" align="center" noshade />
+  <img height=350 src="https://github.com/Shubhcoder/Shubhcoder/blob/main/readme-avatar.png" alt="Readme Avatar" />
 </div>
 
 <br />
