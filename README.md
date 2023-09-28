@@ -28,11 +28,11 @@
 <br />
 
 <details>
-  <summary><b>My GitHub Stats and Streak</b></summary>
+  <summary><b>My GitHub Stats</b></summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubhcoder&show_icons=true&hide=issues,contribs&theme=react&locale=en" alt="ShubhCoder's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhcoder&show_icons=true&count_private=true&hide=issues&theme=react&locale=en" alt="ShubhCoder's GitHub Stats" />
   </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhcoder&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="ShubhCoder's GitHub Streak"/>
-  </p>
+  <!--<p align="center">
+    <img src="https://streak-stats.demolab.com?user=shubhcoder&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="ShubhCoder's GitHub Streak"/>
+  </p>-->
 </details>
