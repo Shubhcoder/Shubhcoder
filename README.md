@@ -19,15 +19,6 @@
 <br />
 
 <details>
-  <summary><b>Languages and Tools</b></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,go,git,github,neovim,tailwind&perline=5" />
-  </p>
-</details>
-
-<br />
-
-<details>
   <summary><b>My GitHub Stats</b></summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shubhcoder&show_icons=true&count_private=true&hide=issues&theme=react&locale=en" alt="ShubhCoder's GitHub Stats" />
@@ -35,4 +26,13 @@
   <!--<p align="center">
     <img src="https://streak-stats.demolab.com?user=shubhcoder&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="ShubhCoder's GitHub Streak"/>
   </p>-->
+</details>
+
+<br />
+
+<details>
+  <summary><b>Languages and Tools</b></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,go,git,github,neovim,tailwind&perline=5" />
+  </p>
 </details>
