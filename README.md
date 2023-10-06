@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&weight=600&color=2789B3&pause=1000&center=true&width=700&height=48&lines=Hi+%F0%9F%91%8B%2C+I+am+ShubhCoder;A+passionate+developer+from+India" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&weight=600&color=2789B3&pause=2000&center=true&width=700&height=48&lines=Hi,+There!+👋;+I'm+ShubhCoder;A+passionate+developer+from+India" alt="Typing SVG" /></a>
   <hr width="50%" style="border-radius:4px;background-color:#fff" align="center" noshade />
-  <img height=350 src="https://github.com/Shubhcoder/Shubhcoder/blob/main/readme-avatar.png" alt="Readme Avatar" />
+  <img height=300 src="https://github.com/Shubhcoder/Shubhcoder/blob/main/readme-avatar.png" alt="Readme Avatar" />
 </div>
 
 <br />
@@ -19,20 +19,19 @@
 <br />
 
 <details>
-  <summary><b>My GitHub Stats</b></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubhcoder&show_icons=true&count_private=true&hide=issues&theme=react&locale=en" alt="ShubhCoder's GitHub Stats" />
+  <summary><b>⚡ My GitHub Streaks and Stats ⚡</b></summary>
+  <p align="center">  
+    <img width=475 src="https://streak-stats.demolab.com?user=shubhcoder&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="ShubhCoder's GitHub Streak"/>
+    <img width=450 src="https://github-readme-stats.vercel.app/api?username=shubhcoder&show_icons=true&count_private=true&rank_icon=github&theme=react&locale=en" alt="ShubhCoder's GitHub Stats" />
   </p>
-  <!--<p align="center">
-    <img src="https://streak-stats.demolab.com?user=shubhcoder&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="ShubhCoder's GitHub Streak"/>
-  </p>-->
 </details>
 
 <br />
 
 <details>
-  <summary><b>Languages and Tools</b></summary>
+  <summary><b>⚒️ Languages and Tools ⚒️</b></summary>
+  <br />
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,go,git,github,neovim,tailwind&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,go,git,github,neovim,tailwind" />
   </p>
 </details>
