@@ -16,6 +16,8 @@
 
 </div>-->
 
+[![An image of @shubhcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhcoder)](https://holopin.io/@shubhcoder)
+
 <br />
 
 <details>
@@ -32,6 +34,6 @@
   <summary><b>⚒️ Languages and Tools ⚒️</b></summary>
   <br />
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,go,git,github,neovim,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,express,git,github,neovim,tailwind" />
   </p>
 </details>
