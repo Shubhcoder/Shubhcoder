@@ -34,6 +34,6 @@
   <summary><b>⚒️ Languages and Tools ⚒️</b></summary>
   <br />
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,express,git,github,neovim,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,express,nextjs,remix,git,github,neovim" />
   </p>
 </details>
