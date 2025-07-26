@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&weight=600&color=2789B3&pause=2000&center=true&width=700&height=48&lines=Hi,+There!+👋;+I'm+ShubhCoder;A+passionate+developer+from+India" alt="Typing SVG" /></a>
-  <hr width="50%" style="border-radius:4px;background-color:#fff" align="center" noshade />
-  <!-- <img height=300 src="https://github.com/Shubhcoder/Shubhcoder/blob/main/readme-avatar.png" alt="Readme Avatar" /> -->
-</div>
+<p align="center">
+  <strong>🧙‍♂️ Full Stack dev by title, automation goblin by nature — I summon APIs to kill boring stuff.</strong>
+</p>
 
 <br />
 
